@@ -2,4 +2,4 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World again!");
 Console.WriteLine("Make a new commit!");
-Console.WriteLine("New changes from other developer");
+Console.WriteLine("My new changes");
